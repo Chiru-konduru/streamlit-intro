@@ -2,3 +2,6 @@ streamlit
 langchain
 openai
 tiktoken
+torch
+transformers
+base64
