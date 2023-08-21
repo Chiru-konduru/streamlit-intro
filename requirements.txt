@@ -4,4 +4,3 @@ openai
 tiktoken
 torch
 transformers
-base64
