@@ -5,3 +5,4 @@ tiktoken
 torch
 transformers
 bs4
+sentencepiece==0.1.96
